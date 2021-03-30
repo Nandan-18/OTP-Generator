@@ -1,12 +1,6 @@
-# Program 12:
 
-"""
-- Generate OTP of 4 digits
-- Generate a Captcha of length as per requirement
-- Check the validity of an email id
-"""
 
-# Main Program:
+# Main Program
 
 import validate
 
