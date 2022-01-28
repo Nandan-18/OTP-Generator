@@ -6,7 +6,7 @@ import re
 import string
 
 
-# function to generate OTP using random module
+# function to generate an OTP using random module
 def generateOTP():
     digits = "0123456789"
     OTP = ""
@@ -15,7 +15,7 @@ def generateOTP():
     return OTP
 
 
-# function to generate Captcha     
+# function to generate a Captcha     
 def rand_captcha(size):
     generate_pass = ''.join([random.choice(string.ascii_uppercase +
                                            string.ascii_lowercase +
@@ -24,7 +24,7 @@ def rand_captcha(size):
     return generate_pass
 
 
-# function to validate an email id using regex
+# function to validate an email ID using regex
 regex = '^\w+([.-]?\w+)*@\w+([.-]?\w+)*(\.\w{2,3})+$'
 
 
