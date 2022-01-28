@@ -1,7 +1,9 @@
-# OTP Generator
+# Validator ✅
 
-Performs the following functions using various modules - 
+## Perform the following functions using various modules - 
 
-- Generate an OTP of 4 digits
-- Generate a Captcha of length as per user's requirement
+- Generate a random 4-digit OTP (One Time Password)
+
+- Generate a Captcha of length as per input value
+
 - Check the validity of an email ID
