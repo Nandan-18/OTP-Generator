@@ -31,28 +31,3 @@ while True:
         print("INVALID INPUT!")
 
 ################################################################################
-
-# OUTPUT#
-'''
-        ---------------------------------------------------
-       |                       MENU                        |
-        ---------------------------------------------------
-       | 1. Generate a 4 digit OTP                         |
-       | 2. Generate a Captcha of length as per requirement|
-       | 3. Check the validity of an email id              |
-       | 4. Exit                                           |
-        ---------------------------------------------------
-        
-Enter Choice: 1
-4400
-Enter Choice: 2
-Enter the size for the Captcha: 10
-P3xlNsOiqE
-Enter Choice: 3
-Enter an Email ID: nandan@gmail.com
-Valid Email
-Enter Choice: 3
-Enter an Email ID: nandan.com
-Invalid Email
-Enter Choice: 4
->>> '''
